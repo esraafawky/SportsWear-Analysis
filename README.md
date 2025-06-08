@@ -6,10 +6,12 @@
    - Product performance by category
    - Impact of Promotions on Sales
    - Conversion Analysis
+     
      📁 Files
      
    - `SportsWear_Dashboard`: The Power BI dashboard file
    - `full_gen_data`: The Dataset
+     
      🧮 Dataset
      
    - Retail Week 
