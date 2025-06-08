@@ -1,18 +1,18 @@
 🧠 Power BI Dashboard: Sales Analysis 
 
-     📊 Features
+📊 Features
      
    - Top countries by sales
    - Product performance by category
    - Impact of Promotions on Sales
    - Conversion Analysis
      
-     📁 Files
+📁 Files
      
    - `SportsWear_Dashboard`: The Power BI dashboard file
    - `full_gen_data`: The Dataset
-     
-     🧮 Dataset
+
+🧮 Dataset
      
    - Retail Week 
    - Customer ID
